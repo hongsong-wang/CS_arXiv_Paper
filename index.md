@@ -2,9 +2,7 @@
 
 To help students and researchers quickly locate relevant papers based on keywords, I compiled abstracts from arXiv in computer science and created a webpage. The collection includes papers that have publicly released their code on arXiv, as well as some that have not released any code. The latter were automatically selected by an algorithm. I apologize if your paper uploaded to arXiv this month is not displayed on this page.
 
-This website is [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper/). 
-
-We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal), and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you!
+This website is [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper/). We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal), and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you!
 
 # Acknowledgements
 若该网页[CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper/)对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！
