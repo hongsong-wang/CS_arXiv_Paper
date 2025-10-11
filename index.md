@@ -6,12 +6,6 @@ To help students and researchers quickly locate relevant papers based on keyword
 
 This website is [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper/). We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal), and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you!
 
-# Acknowledgements
-若该网页[CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper/)对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！
-
-如果转载该文档的内容，请注明出处：[https://hongsong-wang.github.io/CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper)
-
-
 
 <div style="background-color: #f6f8fa; padding: 1em; border-radius: 6px; font-family: monospace; white-space: pre-wrap;">
 <code>
