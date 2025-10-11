@@ -2,35 +2,7 @@
 
 To help students and researchers quickly locate relevant papers based on keywords, I compiled abstracts from arXiv in computer science and created a webpage. The collection includes papers that have publicly released their code on arXiv, as well as some that have not released any code. The latter were automatically selected by an algorithm. I apologize if your paper uploaded to arXiv this month is not displayed on this page.
 
-## October
-[202510](https://hongsong-wang.github.io/arXiv10/)
-
-## September
-[202509](https://hongsong-wang.github.io/arXiv09/)
-
-## August
-[202508](https://hongsong-wang.github.io/arXiv08/) 
-
-## July
-[202507](https://hongsong-wang.github.io/arXiv07/) 
-
-## June
-[202506](https://hongsong-wang.github.io/arXiv06/)
-
-## May
-[202505](https://hongsong-wang.github.io/arXiv05/)
-
-## April
-[202504](https://hongsong-wang.github.io/arXiv04/)
-
-## March
-[202503](https://hongsong-wang.github.io/arXiv03/) 
-
-## February
-[202509](https://hongsong-wang.github.io/arXiv02/)
-
-## January
-[202501](https://hongsong-wang.github.io/arXiv01/)
+[**202510**](https://hongsong-wang.github.io/arXiv10/), &nbsp;[**202509**](https://hongsong-wang.github.io/arXiv09/), &nbsp;[**202508**](https://hongsong-wang.github.io/arXiv08/), &nbsp;[**202507**](https://hongsong-wang.github.io/arXiv07/), &nbsp; [**202506**](https://hongsong-wang.github.io/arXiv06/), &nbsp;[**202505**](https://hongsong-wang.github.io/arXiv05/), &nbsp;[**202504**](https://hongsong-wang.github.io/arXiv04/),&nbsp;[**202503**](https://hongsong-wang.github.io/arXiv03/), &nbsp;[**202502**](https://hongsong-wang.github.io/arXiv02/), &nbsp;[**202501**](https://hongsong-wang.github.io/arXiv01/)
 
 This website is [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper/). We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal), and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you!
 
