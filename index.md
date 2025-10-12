@@ -19,9 +19,6 @@ To help students and researchers quickly locate relevant papers based on keyword
 ### Computation and Language
 [**07-12 (Jul.-Dec.)**](https://hongsong-wang.github.io/CL_arXiv_07_12), &nbsp; [**01_06 (Jan.-Jun.)**](https://hongsong-wang.github.io/CL_arXiv_01_06)
 
-### Other Categories of Computer Science
-[**07-12 (Jul.-Dec.)**](https://hongsong-wang.github.io/Oth_arXiv_07_12), &nbsp; [**01_06 (Jan.-Jun.)**](https://hongsong-wang.github.io/Oth_arXiv_01_06)
-
 This website is [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper/). We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal), and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://github.com/hongsong-wang/CS_arXiv_Paper](https://github.com/hongsong-wang/CS_arXiv_Paper), [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you!
 
 ## Acknowledgements
