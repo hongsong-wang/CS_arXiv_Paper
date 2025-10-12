@@ -19,7 +19,7 @@ To help students and researchers quickly locate relevant papers based on keyword
 ### Computation and Language
 [**202507-202512**](https://hongsong-wang.github.io/CL_arXiv_2507_2512), &nbsp; [**202501_202506**](https://hongsong-wang.github.io/CL_arXiv_2501_2506), &nbsp; [**202407-202412**](https://hongsong-wang.github.io/CL_arXiv_2407_2412/)
 
-### Other Categories on Computer Science
+### Other Categories of Computer Science
 [**202507-202512**](https://hongsong-wang.github.io/Other_arXiv_2507_2512), &nbsp; [**202501_202506**](https://hongsong-wang.github.io/Other_arXiv_2501_2506), &nbsp; [**202407-202412**](https://hongsong-wang.github.io/Other_arXiv_2407_2412/)
 
 This website is [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper/). We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal), and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://github.com/hongsong-wang/CS_arXiv_Paper](https://github.com/hongsong-wang/CS_arXiv_Paper), [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you!
